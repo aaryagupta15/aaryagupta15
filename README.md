@@ -55,7 +55,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-<div align="center">
-<div class="tenor-gif-embed" data-postid="25438257" data-share-method="host" data-aspect-ratio="1.04575" data-width="100%"><a href="https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257">Geek Girl Sticker</a>from <a href="https://tenor.com/search/geek-stickers">Geek Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
