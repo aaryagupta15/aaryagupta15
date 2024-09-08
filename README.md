@@ -22,7 +22,7 @@
 - Currently focusing on Data Structures & Algorithms and working on advanced Python projects involving machine learning.</p>
 
 
-<p align="left"> 📫 Feel free to explore my projects and reach out if you have any questions or collaboration ideas at aaryagupta15@gmail.com or my <a href = "https://www.linkedin.com/in/aarya-gupta-26486a22a" target="_blank"></a></p><br>
+<p align="left"> 📫 Feel free to explore my projects and reach out if you have any questions or collaboration ideas at g.aarya1504@gmail.com or <a href = "https://www.linkedin.com/in/aarya-gupta-26486a22a" target="_blank">LinkedIn.</a></p><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
