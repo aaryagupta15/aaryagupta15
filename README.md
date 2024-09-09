@@ -9,10 +9,11 @@
 ###
 
 <p align="left">💻 Skills:<br>
--Programming Languages: Python, C++<br>
+- Programming Languages: Python, C++<br>
 - Libraries/Frameworks: Numpy, Pandas, Tkinter<br>
 - Databases: SQL, MySQL<br>
-- Data Analysis: Excel,Tableau</p>
+- Data Analysis: Excel,Tableau
+- Basics: HTML, CSS </p>
 
 ###
 
