@@ -12,7 +12,7 @@
 - Programming Languages: Python, C++<br>
 - Libraries/Frameworks: Numpy, Pandas, Tkinter<br>
 - Databases: SQL, MySQL<br>
-- Data Analysis: Excel,Tableau
+- Data Analysis: Excel,Tableau<br>
 - Basics: HTML, CSS </p>
 
 ###
