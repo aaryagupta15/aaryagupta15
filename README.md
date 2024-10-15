@@ -11,17 +11,12 @@
 <p align="left">💻 Skills:<br>
 - Programming Languages: Python, C++<br>
 - Libraries/Frameworks: Numpy, Pandas, Tkinter<br>
+- Machine Learning Algorithms: Linear Regression, Logistic Regression, Dataiku<br>
 - Databases: SQL, MySQL<br>
 - Data Analysis: Excel,Tableau<br>
 - Basics: HTML, CSS </p>
 
 ###
-
-<p align="left"> 🌱 Current Projects:<br>
-- Student Management System: https://github.com/aaryagupta15/Student_management_system<br>
-- SQL Swiggy Case Study: https://github.com/aaryagupta15/SQL_Swiggy_case_study<br>
-- Currently focusing on Data Structures & Algorithms and working on advanced Python projects involving machine learning.</p>
-
 
 <p align="left"> 📫 Feel free to explore my projects and reach out if you have any questions or collaboration ideas at g.aarya1504@gmail.com or <a href = "https://www.linkedin.com/in/aarya-gupta-26486a22a" target="_blank">LinkedIn.</a></p><br>
 
