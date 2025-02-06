@@ -10,11 +10,11 @@
 
 <p align="left">💻 Skills:<br>
 - Programming Languages: Python, C++<br>
-- Libraries/Frameworks: Numpy, Pandas, Tkinter<br>
-- Machine Learning Algorithms: Linear Regression, Logistic Regression, Dataiku<br>
-- Databases: SQL, MySQL<br>
-- Data Analysis: Excel,Tableau<br>
-- Basics: HTML, CSS </p>
+- Libraries/Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Tkinter<br>
+- Machine Learning Algorithms: Linear Regression, Logistic Regression, TensorFlow, Keras, Dataiku<br>
+- Databases: SQL, MySQL, DBMS<br>
+- Data Analysis & Visualization: Excel, Power BI, Tableau<br>
+- Basics: HTML, CSS</p>
 
 ###
 
